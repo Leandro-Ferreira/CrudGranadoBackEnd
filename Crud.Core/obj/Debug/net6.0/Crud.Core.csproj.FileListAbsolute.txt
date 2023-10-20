@@ -1,0 +1,11 @@
+C:\Users\Leandro\source\repos\ProvaGranado\Crud.Core\bin\Debug\net6.0\Crud.Core.deps.json
+C:\Users\Leandro\source\repos\ProvaGranado\Crud.Core\bin\Debug\net6.0\Crud.Core.dll
+C:\Users\Leandro\source\repos\ProvaGranado\Crud.Core\bin\Debug\net6.0\Crud.Core.pdb
+C:\Users\Leandro\source\repos\ProvaGranado\Crud.Core\obj\Debug\net6.0\Crud.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\source\repos\ProvaGranado\Crud.Core\obj\Debug\net6.0\Crud.Core.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\ProvaGranado\Crud.Core\obj\Debug\net6.0\Crud.Core.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\ProvaGranado\Crud.Core\obj\Debug\net6.0\Crud.Core.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\ProvaGranado\Crud.Core\obj\Debug\net6.0\Crud.Core.dll
+C:\Users\Leandro\source\repos\ProvaGranado\Crud.Core\obj\Debug\net6.0\refint\Crud.Core.dll
+C:\Users\Leandro\source\repos\ProvaGranado\Crud.Core\obj\Debug\net6.0\Crud.Core.pdb
+C:\Users\Leandro\source\repos\ProvaGranado\Crud.Core\obj\Debug\net6.0\ref\Crud.Core.dll

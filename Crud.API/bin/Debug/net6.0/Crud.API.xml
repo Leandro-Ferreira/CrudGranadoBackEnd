@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Crud.API</name>
+    </assembly>
+    <members>
+        <member name="M:Crud.API.Controllers.PessoaController.CadastrarPessoa(Crud.Application.CadastrarPessoa.Command.CadastraPessoaCommand)">
+            <summary>
+            Cadastra uma pessoa
+            </summary>
+            <param name="command"></param>
+            <returns>Uma mensagem informando se o cadastro teve sucesso ou não</returns>
+        </member>
+        <member name="M:Crud.API.Controllers.PessoaController.ListarTodasAsPessoas">
+            <summary>
+            Retorna todas as pessoas que estão cadastradas
+            </summary>
+            <returns>Uma lista de pessoas</returns>
+        </member>
+        <member name="M:Crud.API.Controllers.PessoaController.AtualizarPessoa(Crud.Application.AtualizarPessoa.Command.AtualizaPessoaCommand)">
+            <summary>
+            Atualizar o cadastro 
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Crud.API.Controllers.PessoaController.ExcluirPessoa(System.Int32)">
+            <summary>
+             Exclui a pessoa com base no id
+            </summary>
+            <param name="id">1</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Crud.Application</name>
+    </assembly>
+    <members>
+        <member name="P:Crud.Application.AtualizarPessoa.Command.AtualizaPessoaCommand.Id">
+            <example>1</example> 
+        </member>
+        <member name="P:Crud.Application.AtualizarPessoa.Command.AtualizaPessoaCommand.Nome">
+            <example>Bill Gates</example>
+        </member>
+        <member name="P:Crud.Application.AtualizarPessoa.Command.AtualizaPessoaCommand.Cpf">
+            <example>999.999-999-99</example>
+        </member>
+        <member name="P:Crud.Application.AtualizarPessoa.Command.AtualizaPessoaCommand.Email">
+            <example>seuemail@gmail.com</example>
+        </member>
+        <member name="P:Crud.Application.AtualizarPessoa.Command.AtualizaPessoaCommand.Telefone">
+            <example>(99)9999-99999</example>
+        </member>
+        <member name="T:Crud.Application.CadastrarPessoa.Command.CadastraPessoaCommand">
+            <summary>
+            DTO para cadastro de pessoa
+            </summary>
+        </member>
+        <member name="P:Crud.Application.CadastrarPessoa.Command.CadastraPessoaCommand.Nome">
+            <example>Steve Jobs</example>
+        </member>
+        <member name="P:Crud.Application.CadastrarPessoa.Command.CadastraPessoaCommand.Cpf">
+            <example>999.999.999-99</example>
+        </member>
+        <member name="P:Crud.Application.CadastrarPessoa.Command.CadastraPessoaCommand.Email">
+            <example>seuemail@gmail.com</example>
+        </member>
+        <member name="P:Crud.Application.CadastrarPessoa.Command.CadastraPessoaCommand.Telefone">
+            <example>(99)9999-99999</example>
+        </member>
+        <member name="T:Crud.Application.ExcluirPessoa.Command.ExcluiPessoaCommand">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

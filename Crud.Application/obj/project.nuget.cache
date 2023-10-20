@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUBu2OHinMA0hq/VuBROpw93BQtG19ovGREYdP0PuQ/HSCgijbcZzyQdmxE3jyaYDUvvMJ1Zw/mIlOg0+zkuZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leandro\\source\\repos\\ProvaGranado\\Crud.Application\\Crud.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leandro\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
